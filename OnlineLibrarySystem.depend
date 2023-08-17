@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1608931879 source:e:\studying\2\oop\project\onlinelibrarysystem\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	"UserList.h"
+	"BookList.h"
+
+1608926114 e:\studying\2\oop\project\onlinelibrarysystem\user.h
+	<iostream>
+	<stdlib.h>
+
+1608921731 source:e:\studying\2\oop\project\onlinelibrarysystem\user.cpp
+	<cstring>
+	<iostream>
+	"user.h"
+	<cstdlib>
+
+1608932533 source:e:\studying\2\oop\project\onlinelibrarysystem\book.cpp
+	"Book.h"
+	<iostream>
+	<stdlib.h>
+
+1608921798 e:\studying\2\oop\project\onlinelibrarysystem\book.h
+	<cstring>
+	<iostream>
+	"user.h"
+
+1608932557 e:\studying\2\oop\project\onlinelibrarysystem\userlist.h
+	"User.h"
+	<iostream>
+	<stdlib.h>
+
+1608932557 source:e:\studying\2\oop\project\onlinelibrarysystem\userlist.cpp
+	"UserList.h"
+	"User.h"
+	<iostream>
+	<stdlib.h>
+
+1608932557 e:\studying\2\oop\project\onlinelibrarysystem\booklist.h
+	"Book.h"
+	<iostream>
+	<stdlib.h>
+
+1608932557 source:e:\studying\2\oop\project\onlinelibrarysystem\booklist.cpp
+	<iostream>
+	<stdlib.h>
+	"BookList.h"
+
+1692230426 source:e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\book.cpp
+	"Book.h"
+	<iostream>
+	<stdlib.h>
+
+1692229680 e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\book.h
+	<cstring>
+	<iostream>
+	"user.h"
+
+1692231748 e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\user.h
+	<iostream>
+	<stdlib.h>
+
+1692236414 source:e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	"UserList.h"
+	"BookList.h"
+
+1692231856 e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\userlist.h
+	"User.h"
+	<iostream>
+	<stdlib.h>
+
+1692235950 e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\booklist.h
+	"Book.h"
+	<iostream>
+	<stdlib.h>
+	<vector>
+
+1692231126 source:e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\user.cpp
+	<cstring>
+	<iostream>
+	"user.h"
+	<cstdlib>
+
+1692234304 source:e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\userlist.cpp
+	"UserList.h"
+	"User.h"
+	<iostream>
+	<stdlib.h>
+
+1692236556 source:e:\studying\bachelor's\2\term1\oop\assignments\project\onlinelibrarysystem\booklist.cpp
+	<iostream>
+	<stdlib.h>
+	"BookList.h"
+	"Book.h"
+
